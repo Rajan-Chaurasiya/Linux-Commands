@@ -1,4 +1,4 @@
-# Linux-Commands
+# Linux-Commands modified
 How to Install Linux on Windows 10
 Linux is a family of open-source operating systems. They are based on the Linux kernel and are free to download. They can be installed on either a Mac or Windows computer. Here’s how to install Linux on a Windows 10 PC. 
 
